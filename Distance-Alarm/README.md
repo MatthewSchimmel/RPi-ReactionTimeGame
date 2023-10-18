@@ -4,6 +4,8 @@
 - Alarm is flashing lights plus a loud buzzer
 - Distance and more feedback info is available in the serial monitor of the Arduino IDE
 
+![Schematics](https://github.com/MatthewSchimmel/RPi-Microcontroller/assets/73368670/28036cf3-d535-4bac-b469-1e1cbfae96f6)
+
 For more info, see [The Google Drive Archive](https://drive.google.com/drive/folders/1dtdjzjr6IR_wnDlm6_l9_FHmuS4Wpewh?usp=share_link)
 ## Canvas Assignment Specifications:
 ### Project 2
