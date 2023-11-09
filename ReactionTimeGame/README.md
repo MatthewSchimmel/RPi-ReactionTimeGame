@@ -5,6 +5,8 @@
    - Scores are reset when one player gets five points
 
 For more info, see ([The Google Drive Archive](https://drive.google.com/drive/folders/1TnnJzpnH8xu0RD1BVBuHbrRjLhIX0SyF?usp=share_link))
+
+![Hardware](https://github.com/MatthewSchimmel/RPi-Microcontroller/assets/73368670/0ac5358f-5468-4c72-af62-77dc9567b51e)
 ## Canvas Assignment Specifications
 ### Project 1
 Pick a simple problem or need and use Design Thinking to propose, develop and prototype an embedded design to solve that problem using a Raspberry Pi Pico and using the techniques we have covered so far.
