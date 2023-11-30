@@ -1,12 +1,15 @@
 # Project 2 - Automatic & Manual Distance Alarm System
-- Takes in distance from an untrasonic distance sensor
-- Activates alarm function if distance < threshold, or button is held down
-- Alarm is flashing lights plus a loud buzzer
-- Distance and more feedback info is available in the serial monitor of the Arduino IDE
+- Uses the new **ESP32S2 microcontroller**, code written in **Arduino IDE** in **C++**
+- Takes in distance from an **ultrasonic distance sensor**
+- Activates **alarm** function if distance < threshold, or **button** is held down
+- Alarm is **flashing lights** plus a **loud buzzer**
+- Buzzer can be silenced through **website** hosted on its **wireless access point**
+- Distance and more feedback info is available in the **serial monitor** (terminal-like window) of the Arduino IDE
 
-![Schematics](https://github.com/MatthewSchimmel/RPi-Microcontroller/assets/73368670/28036cf3-d535-4bac-b469-1e1cbfae96f6)
+![photo of System 2.0](https://github.com/MatthewSchimmel/RPi-Microcontroller/assets/73368670/db4de435-cb1b-480c-b4af-deb1729d0e43)
 
-For more info, see [The Google Drive Archive](https://drive.google.com/drive/folders/1dtdjzjr6IR_wnDlm6_l9_FHmuS4Wpewh?usp=share_link)
+
+For more details, see [The Google Drive Archive](https://drive.google.com/drive/folders/1egKdUzn_zEPPhy5WzgK4-HGzInYSDM8f?usp=sharing)
 ## Canvas Assignment Specifications:
 ### Project 2
 Pick a problem or need and use Design Thinking to propose, develop and prototype an embedded design to solve that problem using an Arduino and using the techniques we have covered so far.
@@ -16,6 +19,7 @@ It must exhibit interaction by:
 - Using at least two digital outputs, using at least one that is not an LED.
 
 You must turn in your design on Canvas. You will also give a 5 minute presentation and demonstration of your design during class on October 25.
+
 This will **not** be a team project.
 ___
 ### Presentation
